@@ -9,8 +9,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "shipon.github.io",
+    "title": "My Own Project",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "As the questions are outlined, the objectives of this assignment is to input data, wrangling it, save the cleaned data in a organized sub-folder, load the data, make summary to represent a table, some graphs (mostly ggplot), focus/visualize on the fruit quality (with the help of spider chart) based on different parameters.\n\n\nThe packages with libraries are required to be installed in the system/environment of rstuio for this assignment are pacman, tidyverse, here, flextable, fmsb, scales, patchwork, and RColorBrewer.\n\n\n\n\n\n\nSpider Graph\n\n\n\nHere, I have desgined a new graph, which is called spider graph. I kind of like it to show the fruit’s quality contrasting different quality attributing characters parameters. Although, its a huge process to wrangle the data for this graph but I liked it, and it can visualize beautifully. Another point to add about this graph. As I have added 3 spider graph in one row, so it look small but if I can zoom it then it becomes big and clear or if I will dynamically decrease the browser’s window size then the column of the spider graph automatically get one another and becomes bigger, which is really beautiful to look!\n\n\n\n\n\nAfter completing the normal tidyness of the excel file (available at data/raw.data folder), the comparatively cleaned file is then kept in the folder data/raw.data. Now lets input the data from the excel file to the rstudio.\n\n\n\nAs the data is now loaded in the environment we need to do a lot of sorting/wrangling to get the objectives. This document contains a lot of data. We need to wrangle the data to fulfill our objectives of the assignment as well as to visualize the data in a meaningful way. Here, I will select/wrangle/sort/clean only a few parameters. So, lets get started."
+  },
+  {
+    "objectID": "index.html#loading-libraries-and-packages",
+    "href": "index.html#loading-libraries-and-packages",
+    "title": "My Own Project",
+    "section": "",
+    "text": "The packages with libraries are required to be installed in the system/environment of rstuio for this assignment are pacman, tidyverse, here, flextable, fmsb, scales, patchwork, and RColorBrewer.\n\n\n\n\n\n\nSpider Graph\n\n\n\nHere, I have desgined a new graph, which is called spider graph. I kind of like it to show the fruit’s quality contrasting different quality attributing characters parameters. Although, its a huge process to wrangle the data for this graph but I liked it, and it can visualize beautifully. Another point to add about this graph. As I have added 3 spider graph in one row, so it look small but if I can zoom it then it becomes big and clear or if I will dynamically decrease the browser’s window size then the column of the spider graph automatically get one another and becomes bigger, which is really beautiful to look!"
+  },
+  {
+    "objectID": "index.html#data-input",
+    "href": "index.html#data-input",
+    "title": "My Own Project",
+    "section": "",
+    "text": "After completing the normal tidyness of the excel file (available at data/raw.data folder), the comparatively cleaned file is then kept in the folder data/raw.data. Now lets input the data from the excel file to the rstudio."
+  },
+  {
+    "objectID": "index.html#data-wrangling",
+    "href": "index.html#data-wrangling",
+    "title": "My Own Project",
+    "section": "",
+    "text": "As the data is now loaded in the environment we need to do a lot of sorting/wrangling to get the objectives. This document contains a lot of data. We need to wrangle the data to fulfill our objectives of the assignment as well as to visualize the data in a meaningful way. Here, I will select/wrangle/sort/clean only a few parameters. So, lets get started."
   }
 ]
